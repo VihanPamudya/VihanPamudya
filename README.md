@@ -7,7 +7,7 @@
 ## 🙋‍♂️ About Me
 
 
-- 🔭 I’m currently working on **[Covid-19 Tracker](https://covid-19-tracker-e4bda.web.app/)**
+- 🔭 I’m currently studying at **[University of Moratuwa](https://uom.lk/itfac)**
 
 - 🌱 I’m currently learning **Spring Boot**
 
