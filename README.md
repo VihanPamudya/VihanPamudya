@@ -21,7 +21,7 @@
 
 - ⚡ Fun fact **I play games and go to the GYM very often.**
 
-## 🚀 Languages and Tools:
+## 🚀 Languages and Tools
 
 
 <p align="left"> 
@@ -67,7 +67,13 @@
 <br/>
 <br/>
 
-<a href="https://github.com/VihanPamudya/github-readme-activity-graph"><img alt="Vihan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=VihanPamudya&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+## 🏆 Git profile Trophies
+
+<p align="center">
+ <a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=VihanPamudya&layout=compact&theme=algolia" alt="VihanPamudya" />
+ </a>
+</p>
 
 <br/>
 <br/>
