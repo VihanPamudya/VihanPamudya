@@ -85,7 +85,7 @@
 <a href = "https://www.linkedin.com/in/vihan-gammanpila/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://www.instagram.com/__v_i_h_a_n_/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://www.youtube.com/channel/UC1UmbIf9vLU6sVIkJrZVqdQ"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
-<a href = "https://www.hackerrank.com/vihanpamudya12"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="40" width="40"/></a>
+<a href = "https://www.hackerrank.com/vihanpamudya12"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="40" width="40"/></a>
 
 </p>
 
