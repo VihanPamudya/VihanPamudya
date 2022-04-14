@@ -94,7 +94,7 @@
             align="center"
             src="https://cdn-icons-png.flaticon.com/512/174/174857.png"
             height="30"
-            width="40"
+            width="30"
         /></a>
         <a href="https://www.instagram.com/__v_i_h_a_n_/" target="blank"
           ><img
