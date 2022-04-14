@@ -89,26 +89,65 @@
 
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/vihan-gammanpila/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://www.instagram.com/__v_i_h_a_n_/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://www.youtube.com/channel/UC1UmbIf9vLU6sVIkJrZVqdQ"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
-     <a href="https://www.facebook.com/imalsha.liyanage.79" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40"/></a>
-  <a href="https://www.hackerrank.com/imalshashehanil1" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
-      alt="Imalsha Liyanage" height="30" width="40" /></a>
- <a href="mailto:imalshashehaniliyanage@gmail.com" target="blank">
-      <img align="center" src="https://github.com/mahiiverse1/mahiiverse1/blob/main/Gmail_Logo_256px.png" alt="Imalsha Liyanage" height="30" width="40"/>
-      </a>
-  <a href="https://medium.com/@ImalshaLiyanage">
-    <img align="center" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" alt="Imalsha Liyanage|Medium" height="30" width="30"/>
-  </a>
- <a href="https://twitter.com/ImalshaLiyanage?t=txJfeTRfROWu7Femk1F4_Q&s=09" target="_blank">
-  <img align="center" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Twitter.svg" alt="Imalsha Liyanage | Twitter" height="30" width="40" />
-</a> 
- <a href="https://stackoverflow.com/users/17995557/imalsha-liyanage" target="_blank">
- <img align="center" src="https://cdn.iconscout.com/icon/free/png-256/stackoverflow-2752065-2284882.png" alt="stackoverflow" height="30" width="30" />
- </a>
+  <a href="https://www.linkedin.com/in/vihan-gammanpila/" target="blank"
+          ><img
+            align="center"
+            src="https://cdn-icons-png.flaticon.com/512/174/174857.png"
+            height="30"
+            width="40"
+        /></a>
+        <a href="https://www.instagram.com/__v_i_h_a_n_/" target="blank"
+          ><img
+            align="center"
+            src="https://www.svgrepo.com/show/303145/instagram-2-1-logo.svg"
+            height="30"
+            width="40"
+        /></a>
+        <a
+          href="https://www.youtube.com/channel/UC1UmbIf9vLU6sVIkJrZVqdQ"
+          target="blank"
+          ><img
+            align="center"
+            src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg"
+            height="30"
+            width="40"
+        /></a>
+        <a href="https://www.facebook.com/vihan.gammanpila" target="blank"
+          ><img
+            align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
+            height="30"
+            width="40"
+        /></a>
+        <a href="https://www.hackerrank.com/vihanpamudya12" target="blank"
+          ><img
+            align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
+            height="30"
+            width="40"
+        /></a>
+        <a
+          href="#"
+          target="_blank"
+        >
+          <img
+            align="center"
+            src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Twitter.svg"
+            height="30"
+            width="40"
+          />
+        </a>
+        <a
+          href="https://stackoverflow.com/users/18466392/vihan-pamudya?tab=profile"
+          target="_blank"
+        >
+          <img
+            align="center"
+            src="https://cdn.iconscout.com/icon/free/png-256/stackoverflow-2752065-2284882.png"
+            height="30"
+            width="30"
+          />
+        </a>
 
 
 </p>
