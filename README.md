@@ -20,19 +20,6 @@
 - ⚡ Fun fact **I play games and go to the GYM very often.**
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me:
-
-<p align="left">
-<a 
-          href="mailto:vihanpamudya12@gmail.com" 
-          target="_blank"
-    >
-<img 
-            align="center" 
-            src="https://github.com/mahiiverse1/mahiiverse1/blob/main/Gmail_Logo_256px.png"  
-            height="30" 
-            width="30"
-            />
-</a>
 <a href="https://www.linkedin.com/in/vihan-gammanpila/" target="blank"
           ><img
             align="center"
@@ -102,6 +89,7 @@
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
     <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://img.icons8.com/color/48/000000/spring-logo.png"/> </a> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
+    <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://miro.medium.com/max/816/1*mn6bOs7s6Qbao15PMNRyOA.png"/> </a> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
