@@ -19,6 +19,7 @@
 
 - ⚡ Fun fact **I play games and go to the GYM very often.**
 
+</br>
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me:
 <a href="https://www.linkedin.com/in/vihan-gammanpila/" target="blank"
           ><img
@@ -125,7 +126,7 @@
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Vihan's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=VihanPamudya&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
-
+</br>
 ## 📊 My Github Stats
 
   <br/>
@@ -162,7 +163,7 @@
 <a href = "https://vihanpamudya12.medium.com/basic-concepts-in-javascript-fdd7b8ea7640"><img src="https://camo.githubusercontent.com/36bcb44af7ea89d29552a9aa36fd8c3668fc48ef7db080f6299037d892ce0a60/68747470733a2f2f64726976652e676f6f676c652e636f6d2f75633f6578706f72743d766965772669643d3142655f686948475854334e37447255563355676f6c4441596330544c6c46724a" width="50" height="50"/></a>
 
 </p>
-
+</br>
 ## ❤ Views and Followers
 
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
