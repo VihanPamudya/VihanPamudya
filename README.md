@@ -151,6 +151,7 @@
          <a
           href="vihanpamudya12@gmail.com"
           target="_blank"
+          padding-left="10"
         >
           <img
             align="center"
