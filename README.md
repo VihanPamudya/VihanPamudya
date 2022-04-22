@@ -20,6 +20,7 @@
 - ⚡ Fun fact **I play games and go to the GYM very often.**
 
 </br>
+
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me:
 <a href="https://www.linkedin.com/in/vihan-gammanpila/" target="blank"
           ><img
