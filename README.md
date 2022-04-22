@@ -21,7 +21,7 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me:
 
-<p align="center">
+<p align="right">
 
 <a href="https://www.linkedin.com/in/vihan-gammanpila/" target="blank"
           ><img
