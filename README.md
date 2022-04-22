@@ -165,7 +165,6 @@
 <a href = "https://vihanpamudya12.medium.com/basic-concepts-in-javascript-fdd7b8ea7640"><img src="https://camo.githubusercontent.com/36bcb44af7ea89d29552a9aa36fd8c3668fc48ef7db080f6299037d892ce0a60/68747470733a2f2f64726976652e676f6f676c652e636f6d2f75633f6578706f72743d766965772669643d3142655f686948475854334e37447255563355676f6c4441596330544c6c46724a" width="50" height="50"/></a>
 
 </p>
-</br>
 
 ## ❤ Views and Followers
 
