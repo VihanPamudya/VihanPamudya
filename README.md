@@ -21,8 +21,18 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me:
 
-<p align="right">
-
+<p align="left">
+<a 
+          href="mailto:vihanpamudya12@gmail.com" 
+          target="_blank"
+    >
+<img 
+            align="center" 
+            src="https://github.com/mahiiverse1/mahiiverse1/blob/main/Gmail_Logo_256px.png"  
+            height="30" 
+            width="30"
+            />
+</a>
 <a href="https://www.linkedin.com/in/vihan-gammanpila/" target="blank"
           ><img
             align="center"
@@ -81,17 +91,6 @@
             height="30"
             width="30"
           />
-</a>
-<a 
-          href="mailto:vihanpamudya12@gmail.com" 
-          target="_blank"
-    >
-<img 
-            align="center" 
-            src="https://github.com/mahiiverse1/mahiiverse1/blob/main/Gmail_Logo_256px.png"  
-            height="30" 
-            width="30"
-            />
 </a>
 </p>
 
