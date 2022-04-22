@@ -3,9 +3,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Vihan Gammanpila</h1>
 <h3 align="center">I'm a IT Undergraduate in Sri Lanka.</h3>
 
-
 ## 🙋‍♂️ About Me
-
 
 - 🔭 I’m currently working on **[My Portfolio Website](https://github.com/VihanPamudya/vihanpamudya-personalweb.git)**
 
@@ -22,7 +20,6 @@
 - ⚡ Fun fact **I play games and go to the GYM very often.**
 
 ## 🚀 Languages and Tools
-
 
 <p align="left"> 
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
@@ -56,13 +53,11 @@
 
 ## 📊 My Github Stats
 
-
   <br/>
     <a href="https://github.com/VihanPamudya/github-readme-stats"><img alt="Vihan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=VihanPamudya&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/VihanPamudya/github-readme-stats"><img alt="Vihan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VihanPamudya&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
 
 <!-- <br/>
 <br/>
@@ -85,25 +80,25 @@
 
 <br/>
 
-## Connect with me:
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me:
 
 <p align="left">
 
-  <a href="https://www.linkedin.com/in/vihan-gammanpila/" target="blank"
+<a href="https://www.linkedin.com/in/vihan-gammanpila/" target="blank"
           ><img
             align="center"
             src="https://cdn-icons-png.flaticon.com/512/174/174857.png"
             height="30"
             width="30"
         /></a>
-        <a href="https://www.instagram.com/__v_i_h_a_n_/" target="blank"
+<a href="https://www.instagram.com/__v_i_h_a_n_/" target="blank"
           ><img
             align="center"
             src="https://www.svgrepo.com/show/303145/instagram-2-1-logo.svg"
             height="30"
             width="40"
         /></a>
-        <a
+<a
           href="https://www.youtube.com/channel/UC1UmbIf9vLU6sVIkJrZVqdQ"
           target="blank"
           ><img
@@ -112,55 +107,43 @@
             height="30"
             width="40"
         /></a>
-        <a href="https://www.facebook.com/vihan.gammanpila" target="blank"
+<a href="https://www.facebook.com/vihan.gammanpila" target="blank"
           ><img
             align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
             height="30"
             width="40"
         /></a>
-        <a href="https://www.hackerrank.com/vihanpamudya12" target="blank"
+<a href="https://www.hackerrank.com/vihanpamudya12" target="blank"
           ><img
             align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
             height="30"
             width="40"
         /></a>
-        <a
+<a
           href="https://twitter.com/vihangammanpila"
           target="_blank"
         >
-          <img
+<img
             align="center"
             src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Twitter.svg"
             height="30"
             width="40"
           />
-        </a>
-        <a
+</a>
+<a
           href="https://stackoverflow.com/users/18466392/vihan-pamudya?tab=profile"
           target="_blank"
         >
-          <img
+<img
             align="center"
             src="https://cdn.iconscout.com/icon/free/png-256/stackoverflow-2752065-2284882.png"
             height="30"
             width="30"
           />
-        </a>
-         <a
-          href="vihanpamudya12@gmail.com"
-          target="_blank"
-          padding-left="10"
-        >
-          <img
-            align="center"
-            src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gmail.max-1100x1100.png"
-            height="30"
-            width="30"
-          />
-        </a>
-
+</a>
+<a href="mailto:vihanpamudya12@gmail.com.com" target="_blank"><img align="center" src="https://github.com/mahiiverse1/mahiiverse1/blob/main/Gmail_Logo_256px.png" alt="Email" height="30" width="35"/></a>
 
 </p>
 
@@ -169,10 +152,11 @@
 <p align="left">
 
 <a href = "https://vihanpamudya12.medium.com/basic-concepts-in-javascript-fdd7b8ea7640"><img src="https://camo.githubusercontent.com/36bcb44af7ea89d29552a9aa36fd8c3668fc48ef7db080f6299037d892ce0a60/68747470733a2f2f64726976652e676f6f676c652e636f6d2f75633f6578706f72743d766965772669643d3142655f686948475854334e37447255563355676f6c4441596330544c6c46724a" width="50" height="50"/></a>
+
 </p>
 
-
 ## ❤ Views and Followers
+
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=VihanPamudya">
 </a>
