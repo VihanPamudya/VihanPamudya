@@ -143,7 +143,17 @@
             width="30"
           />
 </a>
-<a href="mailto:vihanpamudya12@gmail.com" target="_blank"><img align="center" src="https://github.com/mahiiverse1/mahiiverse1/blob/main/Gmail_Logo_256px.png" alt="Email" height="30" width="30"/></a>
+<a 
+    href="mailto:vihanpamudya12@gmail.com" 
+    target="_blank"
+    >
+<img 
+            align="center" 
+            src="https://github.com/mahiiverse1/mahiiverse1/blob/main/Gmail_Logo_256px.png"  
+            height="30" 
+            width="30"
+            />
+</a>
 </p>
 
 ## Read My Articles:
