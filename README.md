@@ -22,6 +22,7 @@
 </br>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me:
+
 <a href="https://www.linkedin.com/in/vihan-gammanpila/" target="blank"
           ><img
             align="center"
@@ -81,6 +82,7 @@
             width="30"
           />
 </a>
+
 </p>
 </br>
 
@@ -134,10 +136,9 @@
   <br/>
     <a href="https://github.com/VihanPamudya/github-readme-stats"><img alt="Vihan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=VihanPamudya&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
-  <a href="https://github.com/VihanPamudya/github-readme-stats"><img alt="Vihan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VihanPamudya&langs_count=10&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/VihanPamudya/github-readme-stats"><img alt="Vihan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VihanPamudya&langs_count=10&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
-  <a href="https://github.com/VihanPamudya/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=VihanPamudya&langs_count=10&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="Vihan's Top Languages" /></a>
-  <br/>
+ <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 <!-- <br/>
