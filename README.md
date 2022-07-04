@@ -21,7 +21,7 @@
 
 </br>
 
-## Connect with me:
+## 📊 Connect with me:
 
 <a href="https://www.linkedin.com/in/vihan-gammanpila/" target="blank"
           ><img
