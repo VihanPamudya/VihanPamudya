@@ -1,6 +1,6 @@
 <div align="center" ><a href="#"><img height="auto" width="30%" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/></a></div>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Vihan Gammanpila</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px">, I'm Vihan Gammanpila</h1>
 <h3 align="center">I'm a IT Undergraduate in Sri Lanka.</h3>
 
 ## 🙋‍♂️ About Me
