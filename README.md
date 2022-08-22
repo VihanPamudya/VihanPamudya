@@ -5,7 +5,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[ToDoApp](https://github.com/VihanPamudya/vihanpamudya-personalweb.git)**
+- 🔭 I’m currently working on **[ToDoApp](https://github.com/VihanPamudya/ToDoApp.git)**
 
 - 🌱 I’m currently learning **Spring Boot**
 
