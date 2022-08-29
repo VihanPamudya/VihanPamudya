@@ -11,9 +11,13 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
+- 📝 I regularly write articles on **[Medium](https://vihanpamudya12.medium.com/basic-concepts-in-javascript-fdd7b8ea7640)**
+
 - 👨‍💻 All of my projects are available at **[My Github](https://github.com/VihanPamudya)**
 
 - 📫 How to reach me **vihanpamudya12@gmail.com**
+
+- 🏆 My Portfolio **https://vihangammanpila.netlify.app/**
 
 - 📝 I studied at **Ananda College**
 
