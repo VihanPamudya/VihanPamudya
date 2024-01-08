@@ -17,8 +17,6 @@
 
 - 📫 How to reach me **vihanpamudya12@gmail.com**
 
-- 🏆 My Portfolio **https://vihangammanpila.netlify.app/**
-
 - 📝 I studied at **Ananda College**
 
 - ⚡ Fun fact **I play games and go to the GYM very often.**
