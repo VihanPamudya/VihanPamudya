@@ -7,6 +7,8 @@
 
 - 🔭 I’m currently working on **[Book-Management-System](https://github.com/VihanPamudya/Book-Management-System.git)**
 
+- 🌱 I’m currently learning **Spring Boot**
+
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
 - 📝 I regularly write articles on **[Medium](https://vihanpamudya12.medium.com/)**
@@ -18,6 +20,8 @@
 - 📫 How to reach me **vihanpamudya12@gmail.com**
 
 - 📝 I studied at **Ananda College**
+
+- ⚡ Fun fact **I play games and go to the GYM very often.**
 
 </br>
 
@@ -42,7 +46,7 @@
           target="blank"
           ><img
             align="center"
-            src="https://www.svgrepo.com/show/13671/youtube.svg"
+            src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg"
             height="30"
             width="40"
         /></a>
@@ -125,6 +129,15 @@
 ## 🎃 Hacktoberfest 2023 Contributions
 [![@vihanpamu's Holopin board](https://holopin.me/vihanpamu)](https://holopin.io/@vihanpamu)
 
+## 📊 Streak Stats
+
+<p align="center">
+    <a href="https://github.com/VihanPamudya/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Vihan's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=VihanPamudya&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
+</br>
+
 ## 📊 My Github Stats
 
   <br/>
@@ -138,6 +151,21 @@
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 <!-- <br/>
+<br/>
+
+## 🏆 Git profile Trophies
+
+<p align="center">
+ <a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=VihanPamudya&layout=compact&theme=algolia" alt="VihanPamudya" />
+ </a>
+</p>
+
+<br/>
+<br/> -->
+
+<br/>
+<br/>
 <br/>
 
 ## Read My Articles:
